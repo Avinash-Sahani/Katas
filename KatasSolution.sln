@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDMicroExercises", "F:\Resources\CSharp\TDDMicroExercises.csproj", "{E303E199-8C34-4A58-8181-4CC1028AB31D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingKatas", "RacingKatas\RacingKatas.csproj", "{75C8F8AE-983D-48D0-BB6A-5FBBE68279E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E303E199-8C34-4A58-8181-4CC1028AB31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E303E199-8C34-4A58-8181-4CC1028AB31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E303E199-8C34-4A58-8181-4CC1028AB31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E303E199-8C34-4A58-8181-4CC1028AB31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C8F8AE-983D-48D0-BB6A-5FBBE68279E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C8F8AE-983D-48D0-BB6A-5FBBE68279E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C8F8AE-983D-48D0-BB6A-5FBBE68279E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C8F8AE-983D-48D0-BB6A-5FBBE68279E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
